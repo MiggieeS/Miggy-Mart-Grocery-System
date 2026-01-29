@@ -1,11 +1,11 @@
-# IMAN_MIGGY_MART
+## Miggy Mart Grocery System
 
-This is a simple CRUD CLI APP with database implementation using the mysql database for our IMAN Final Project. 
+This is a simple CRUD CLI implementation with a database using MySQL for our Information Management Final Project. 
 
 
 Members:<br>
 Kevin Zeke Ramos<br>
 Kurt Marten Sardes<br>
 Dean Louis Santos<br>
-Juan Miguel II Soriano<br>
+Juan Miguel Soriano II<br>
  
